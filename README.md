@@ -1,5 +1,5 @@
-dotfiles
-========
+My DotFiles
+==========
 
 My OSX dotfiles
 
