@@ -3,4 +3,4 @@ My DotFiles
 
 My OSX dotfiles
 
-Thanks to: @ruyadorno to Tips and Trick on Vim :) 
+Thanks to: [Ruy Adorno](http://www.github.com/ruyadorno) to Tips and Trick on Vim :) 
