@@ -9,12 +9,12 @@ else
     ok "OK"
 fi
 
-# phantomjs
+# node
 if which phantomjs &> /dev/null; then
-    msg_checking "phantomjs"
+    msg_checking "node"
 else
-    msg_install "phantomjs" "brew install phantomjs"
-    brew install phantomjs
+    msg_install "node" "brew install node"
+    brew install node
     msg_ok "OK"
 fi
 
